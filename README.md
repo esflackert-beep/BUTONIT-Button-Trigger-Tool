@@ -34,7 +34,17 @@ BUTONIT ist ein Desktop-Tool für Windows, das es ermöglicht, Tastenkombination
 
 ---
 
-## 🚀 Installation
+## 📥 Download
+
+### Fertige .exe Dateien (kein Python nötig!)
+- **[BUTONIT_1.0.exe](https://github.com/esflackert-beep/BUTONIT-Button-Trigger-Tool/raw/main/BUTONIT_1.0.exe)** - Vollversion mit Multi-Key-Combos
+- **[BUTONIT_MINI.exe](https://github.com/esflackert-beep/BUTONIT-Button-Trigger-Tool/raw/main/BUTONIT_MINI.exe)** - Einfache Single-Key-Version
+
+Einfach herunterladen und starten - keine Installation nötig! ✨
+
+---
+
+## 🚀 Installation (für Python-Version)
 
 ### Voraussetzungen
 ```bash
