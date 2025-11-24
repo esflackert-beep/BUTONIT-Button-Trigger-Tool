@@ -1,0 +1,46 @@
+## BUTONIT - GitHub Upload Abschließen
+
+Ich habe das lokale Git-Repository erstellt und committet! ✅
+
+### Nächste Schritte (dauert 2 Minuten):
+
+1. **GitHub Repository-Seite sollte jetzt im Browser geöffnet sein**
+   - Falls nicht, öffne: https://github.com/new
+   - Repository Name: `BUTONIT`
+   - Description ist bereits vorausgefüllt
+   - Wähle "Public"
+   - ⚠️ WICHTIG: **Haken NICHT setzen** bei "Add a README file"
+   - Klicke "Create repository"
+
+2. **Kopiere die Remote-URL aus GitHub**
+   Nach dem Erstellen zeigt GitHub dir Befehle an.
+   Kopiere die URL (Format: https://github.com/DEIN_USERNAME/BUTONIT.git)
+
+3. **Führe diese Befehle aus** (im BUTONIT-Repo Ordner):
+
+```powershell
+cd "C:\Users\Admin\Desktop\BUTONIT-Repo"
+git remote add origin https://github.com/DEIN_USERNAME/BUTONIT.git
+git branch -M main
+git push -u origin main
+```
+
+Falls Git nach Login fragt:
+- Username: Dein GitHub Username
+- Password: Verwende ein Personal Access Token (nicht dein Passwort!)
+  Token erstellen: https://github.com/settings/tokens
+
+---
+
+## Lokales Repository Status: ✅
+
+📁 Ort: `C:\Users\Admin\Desktop\BUTONIT-Repo`
+📦 Commit: "Initial commit: BUTONIT v1.0 und MINI"
+📄 Dateien:
+  - BUTONIT_1.0.py (Multi-Key-Combo Version)
+  - BUTONIT_MINI.py (Single-Key Version)
+  - README.md (Vollständige Dokumentation)
+  - requirements.txt
+  - .gitignore
+
+Bereit zum Push! 🚀
